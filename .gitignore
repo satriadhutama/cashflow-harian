@@ -1,0 +1,5 @@
+work/
+outputs/
+.clasp.json
+.DS_Store
+Thumbs.db
